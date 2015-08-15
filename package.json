@@ -1,0 +1,21 @@
+{
+  "name": "lazy-pdf-viewer",
+  "version": "1.0.0",
+  "description": "TODO",
+  "author": "Miëtek Bak <hello@mietek.io>",
+  "homepage": "https://github.com/mietek/lazy-pdf-viewer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mietek/lazy-pdf-viewer"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "lazy-scroller": "^1.0.0",
+    "react-wrapper": "^1.0.1"
+  },
+  "peerDependencies": {
+    "pdfjs-dist": "^1.1.381",
+    "react": "^0.13.3"
+  }
+}
